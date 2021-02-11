@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+/* Navbar Style  */
+
+.nav-link{
+    color: black;
+    font-weight: 600;
+    font-family: Montserrat;
+}
+.navbar-brand{
+    font-family: Ubuntu; 
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+}
